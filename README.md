@@ -5,7 +5,7 @@ Rules are easy)
 
 Use WASD (in lower case) to find exit.
 
-Input yor way (example: the way of first level is "ddww")
+Input your way (example: the way of first level is "ddww")
 
 If you will have problems, you can look answers in Answers.txt
 
